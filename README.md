@@ -4,7 +4,7 @@
 An REST API to integrate with your online store!
 The api was build with:
 
-[![Node.js Logo](/.github/images/node.js_logo.png)](https://nodejs.org/en/)
+[![Node.js Logo](/.github/images/download.jpeg)](https://nodejs.org/en/)
 
 [![Sequelize Logo](/.github/images/sequelize-logo.png)](https://www.npmjs.com/package/sequelize)
 
